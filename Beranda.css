@@ -1,0 +1,137 @@
+.u-block-d401-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-d401-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-d401-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: url("images/depandesahulu.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 883px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+  text-shadow: 0px 2px 8px rgba(128,128,128,1);
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 11px 0 0 291px;
+}
+
+.u-section-1-1 .u-text-2 {
+  letter-spacing: 2px;
+  text-transform: none;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 84px 0 60px 683px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 728px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-left: 191px;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-left: 483px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 558px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-left: 263px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1-1 {
+    background-position: 100% 50%;
+  }
+
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 419px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    font-size: 1rem;
+    margin-left: 83px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1-1 {
+    background-position: 57.82% 50%;
+  }
+
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 381px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-top: 44px;
+    font-size: 3rem;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    width: auto;
+    margin-left: 103px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 168px;
+}
+
+.u-section-2 .u-social-icons-1 {
+  height: 48px;
+  min-height: 16px;
+  width: 164px;
+  min-width: 68px;
+  margin: 60px auto;
+}
+
+.u-section-2 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
+}
+
+.u-section-2 .u-icon-2 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-2 .u-icon-3 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
